@@ -1,5 +1,5 @@
 function isEven(num) {
-  return num % 2 === 0;
+  return num % 2 === 1;
 }
 
 console.log(isEven(10));
