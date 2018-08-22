@@ -5,4 +5,4 @@ function concat (array1, array2)
 console.log(array3);
 }
 
-console.log(concat([ 5, 10 ], []))
+console.log(concat([ 5, 10 ], [ 4, 5 ]))
